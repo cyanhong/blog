@@ -1,0 +1,1 @@
+export const CHANGE_ABOUT = 'about/CHANGE_ABOUT';
