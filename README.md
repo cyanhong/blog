@@ -1,4 +1,12 @@
 # blog
+
+demo地址：http://132.232.70.49/
+
+该项目是前段时间学习React框架时写的一个个人博客网站，由于React框架学习的还不够深入，所以目前做的比较粗糙，日后会再完善，争取前后端能全部做完。
+
+该博客的所有数据都是从本地的json文件中请求，关于写文章那部分，本想实现代码块用markdown语法，但想了很久，还是没成功。
+
+
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
